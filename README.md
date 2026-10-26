@@ -28,7 +28,7 @@ These are four beginner Python projects I built to practice programming, problem
 <img width="1250" height="1000" alt="image" src="https://github.com/user-attachments/assets/58bfd648-5c6f-4921-89f9-48d954c803b4" />
 <img width="1535" height="621" alt="Aim Test 10_25_2026 8_46_57 PM" src="https://github.com/user-attachments/assets/ba50a928-18fe-4278-b7fd-da046cdc0648" />
 
-- **Computer Part Quiz
+- **Computer Parts Quiz
   <img width="1386" height="908" alt="Quiz" src="https://github.com/user-attachments/assets/e3d516a1-c4d1-4465-81d1-592a1196f32c" />
 
 - **Password Manager
