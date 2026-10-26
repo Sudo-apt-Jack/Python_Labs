@@ -33,6 +33,8 @@ These are four beginner Python projects I built to practice programming, problem
 
 - **Password Manager
 <img width="1535" height="704" alt="Quiz py - Python Journey - Visual Studio Code 10_25_2026 9_01_48 PM" src="https://github.com/user-attachments/assets/c4e5f62d-5585-49eb-be81-5e157326ce12" />
+<img width="1535" height="996" alt="PW" src="https://github.com/user-attachments/assets/d646608e-9956-4d62-87f2-47bb00578350" />
+
 
 - **Dice Guessing Game
 <img width="1535" height="484" alt="diceroll" src="https://github.com/user-attachments/assets/d2d4579c-b295-4604-bd3f-4237ce4490b6" />
