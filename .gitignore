@@ -1,0 +1,33 @@
+# Python Projects - .gitignore
+
+# Password Manager - Private Files
+key.key
+passwords.txt
+*.key
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+.env.*
+
+# VS Code and IDE Settings
+.vscode/
+.idea/
+
+# Temporary Files
+*.log
+*.tmp
+*.bak
+
+# Operating System Files
+.DS_Store
+Thumbs.db
